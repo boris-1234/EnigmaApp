@@ -1,0 +1,26 @@
+{
+	"data":[
+	{"name": "XRPAUD", "price": 1.55, "change":-0.57, "volume":1218000},
+	{"name": "XRPBTC", "price": 0.00002345, "change":0.43, "volume":8246000},
+	{"name": "XRPCAD", "price": 1.43, "change":-0.35, "volume":2223000},
+	{"name": "XRPETH", "price": 0.0003566, "change":0.39, "volume":2308000},
+	{"name": "XRPEUR", "price": 0.9560, "change":-0.35, "volume":6450000000},
+	{"name": "XRPGBP", "price": 0.8176, "change":-0.65, "volume":9761000},
+	{"name": "XRPJPY", "price": 124.02, "change":-0.76, "volume":2632000},
+	{"name": "XRPUSD", "price": 1.13, "change":-0.36, "volume":4333000000},
+	{"name": "XRPUSDT", "price": 1.13, "change":-0.35, "volume":8257000},
+	{"name": "BCHAUD", "price": 929.99, "change":-0.05, "volume":758},
+	{"name": "BCHBTC", "price": 0.01347, "change":-3.37, "volume":155.61},
+	{"name": "BCHETH", "price": 0.2040, "change":-3.32, "volume":64.78},
+	{"name": "BCHEUR", "price": 548.56, "change":-4.06, "volume":1227000},
+	{"name": "BCHGBP", "price": 446.70, "change":-4.82, "volume":9.65},
+	{"name": "BCHJPY", "price": 124.02, "change":-0.76, "volume":2632000},
+	{"name": "BCHUSD", "price": 70759.00, "change":-5, "volume":20.61},
+	{"name": "BCHUSDT", "price": 1.13, "change":-0.35, "volume":8257000},
+	{"name": "LTCAUD", "price": 236.88, "change":-3.63, "volume":150.12},
+	{"name": "LTCBTC", "price": 0.003587, "change":-2.45, "volume":2587000},
+	{"name": "LTCETH", "price": 0.05441, "change":-2.42, "volume":590.38},
+	{"name": "LTCEUR", "price": 145.99, "change":-3.00, "volume":9364000},
+	{"name": "LTCGBP", "price": 446.70, "change":-4.82, "volume":9.65}
+	]	
+	}
